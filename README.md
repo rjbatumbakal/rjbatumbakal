@@ -13,7 +13,9 @@ I am a third-year BS Computer Science student at Ateneo de Naga University with 
 
 ### 🚀 Featured Project: ADNU League Season 3
 **Lead Front-End Developer | Full-Stack Architecture & Deployment**
-
+<p align="center">
+  <img src="ADNUL.PNG" width="1200" alt="Description">
+</p>
 > Orchestrated the university’s premier high-traffic platform, serving as the single source of truth for 11,000+ users.
 
 * **Scalability & Traffic:** Successfully handled over **52,000 total page views** and **11,000 unique visitors** during a peak 5-day event.
