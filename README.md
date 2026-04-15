@@ -16,7 +16,8 @@ I am a third-year BS Computer Science student at Ateneo de Naga University with 
 <p align="center">
   <img src="ADNUL.PNG" width="1200" alt="Description">
 </p>
-> Orchestrated the university’s premier high-traffic platform, serving as the single source of truth for 11,000+ users.
+
+* Orchestrated the university’s premier high-traffic platform, serving as the single source of truth for 11,000+ users.
 
 * **Scalability & Traffic:** Successfully handled over **52,000 total page views** and **11,000 unique visitors** during a peak 5-day event.
 * **System Reliability:** Maintained **99.9% uptime** under heavy concurrent load through a optimized **Vercel** deployment pipeline.
