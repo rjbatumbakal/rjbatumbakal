@@ -24,6 +24,7 @@ I am a third-year BS Computer Science student at Ateneo de Naga University with 
 * **AI-Enhanced Velocity:** Utilized **GitHub Copilot** as a primary tool for rapid prototyping, debugging, and feature deployment during a strict two-week sprint.
 * **Security Post-Mortem:** Identified and resolved critical unauthorized information disclosure risks, implementing improved permission scoping and data abstraction for production security.
 
+🔗 [Visit Official Website: adnuleague.com](https://adnuleague.com/)
 ---
 
 ### 🛠 Technical Toolkit
