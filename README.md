@@ -5,6 +5,14 @@ I am a third-year Computer Science student at **Ateneo de Naga University** with
 
 ---
 
+### 🚀 Featured Project: ADNU League Season 3
+**Full-Stack Developer (End-to-End Architecture & Deployment)**
+* Designed and deployed the university's premier league platform using a modern **React**, **Tailwind**, and **Supabase** stack.
+* Managed production-grade backends to handle **real-time tournament data** and authentication.
+* Achieved **99.9% uptime** and supported a high-traffic user base of **11,000+ unique visitors** via **Vercel** deployment.
+* **AI-Accelerated:** Leveraged **GitHub Copilot** to maximize development velocity and debugging efficiency.
+
+
 ### 🛠️ Technical Toolkit
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -14,9 +22,11 @@ I am a third-year Computer Science student at **Ateneo de Naga University** with
 | **DevOps & AI** | Docker, Vercel, Git, GitHub Copilot |
 | **Security** | Kali Linux, VirtualBox |
 
+---
 
 ### 📫 Connect with Me
 * **LinkedIn:** [John Francis H. Mendoza](https://www.linkedin.com/in/johnfrancishmendoza)
 * **Email:** [mendozarj3624@gmail.com](mailto:mendozarj3624@gmail.com)
 * **Location:** Camarines Sur, Philippines
 
+> *"I believe that documentation, proper planning, and a security-first strategy are the foundations of every reliable system."*
