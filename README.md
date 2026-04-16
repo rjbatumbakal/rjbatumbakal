@@ -28,7 +28,7 @@ I am a third-year BS Computer Science student at Ateneo de Naga University with 
 🔗 [Visit Official Website: adnuleague.com](https://adnuleague.com/)
 ---
 
-[GITHUB README](https://github.com/rjbatumbakal/ADNULeague)
+[ADNULeague README](https://github.com/rjbatumbakal/ADNULeague)
 ---
 
 ### 🛠 Technical Toolkit
